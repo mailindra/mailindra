@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫About Me :
-* I am software engineer who loves to write
+* Software engineer who loves to write
 
 
 ## 🌐Socials
